@@ -11,10 +11,13 @@ engaging by changing the colors of the lines.
 ### Final Images
 ***
 
-[Experiment 1](https://www.instagram.com/p/BgCxmullSqU/)
+Experiment 1
+![](https://www.instagram.com/p/BgCxmullSqU/)
 
-[Experiment 2](https://www.instagram.com/p/BgCxlRQlsGq/)
+Experiment 2
+![](https://www.instagram.com/p/BgCxlRQlsGq/)
 
-[Experiment 3](https://www.instagram.com/p/BgCxjebFD0z/)
+Experiment 3
+![](https://www.instagram.com/p/BgCxjebFD0z/)
 
 [CVProject Video](https://www.youtube.com/watch?v=qFD1nd8_FAM)
