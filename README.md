@@ -11,7 +11,7 @@ engaging by changing the colors of the lines.
 ### Final Images and Video
 ***
  
-[Drawings] (https://www.instagram.com/p/BgCyDlWlMlg/)
+[Drawings](https://www.instagram.com/p/BgCyDlWlMlg/)
  
 [Experiment 1](https://www.instagram.com/p/BgCxmullSqU/)
 
