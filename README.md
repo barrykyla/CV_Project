@@ -8,7 +8,7 @@ look like a profile of a face. I used the map and random functions to change the
 an almost 3D effect, and keep the image from looking as flat. The image looked more flat with just one color so I tried to make it more 
 engaging by changing the colors of the lines. 
 
-### Final Images
+### Final Images and Video
 ***
 
 [Experiment 1](https://www.instagram.com/p/BgCxmullSqU/)
