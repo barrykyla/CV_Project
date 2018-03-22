@@ -57,7 +57,7 @@ void draw() {
 
     webcam.read();
     image(webcam, 0, 0);
-
+    background(0);
     cv.loadImage(webcam);
 
     int threshold = int( map(300, 0, height, 0, 255) );
